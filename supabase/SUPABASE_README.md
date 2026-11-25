@@ -1,0 +1,1 @@
+// a start for the music database. gemini usage to generate the 10 sample songs based on the erd, but otherwise pretty much what we learned in class so far for sql.
