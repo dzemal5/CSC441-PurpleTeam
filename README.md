@@ -34,6 +34,8 @@ The backend would have Spotify API saved inside the supabase along with any othe
 ## 9. Additional backlog items
 1. Create main database schema and 10 records in SQL (Supabase) -Jesse
 2. Add RLS/read policy and test API requests (Supabase) -Jesse
+    2a. Start JS framework in VS
+    2b. Start JS framework in AS
 3. Android List view using API GET (Android)
 4. Android Details view with separate GET by ID or with the first one (Android)
 5. Website List view using fetch() (Web)
